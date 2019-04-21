@@ -1,0 +1,75 @@
+.item{
+	float: right;
+	color: white;
+}
+
+#body{
+	padding-top: 56;
+}
+
+.item:hover{
+	color: white;
+}
+
+.menu{
+	margin-left: 10%;
+}
+
+.navblock{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+#filtr{
+	width: 100%;
+	padding: 10 0 10 50;
+	position: fixed;
+	top: 56;
+	background-color: #5a4da2;
+	z-index: 100;
+}
+
+.book{
+	background-color: #de6b09;
+	padding: 20 10;
+}
+
+.d_img{
+	float: right;
+}
+
+.text{
+	float: right;
+}
+
+.space{
+	height: 5;
+}
+
+.left_tabel{
+	padding: 10 10;
+	text-align: center;
+}
+
+.description{
+	text-align: justify;
+}
+
+.spoiler{
+	cursor: pointer;
+}
+
+.spoiler:hover{
+	color: #004eff;
+}
+
+.genre_filtr{
+	padding-right: 10;
+}
+
+.find{
+	float: right;
+	margin-right: 100;
+}
